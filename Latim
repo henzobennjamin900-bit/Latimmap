@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "latamap Docs": {
+      "type": "sse",
+      "url": "https://gitmcp.io/CalebLovell/latamap"
+    }
+  }
+}
